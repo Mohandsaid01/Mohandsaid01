@@ -1,16 +1,27 @@
-## Hi there 👋
+Mohand Saïd Halfaoui
+Mohandsaid01 · il/lui
+Internet | Mobile | IA — Développeur junior à Montréal, en quête de défis techniques et d'apprentissage continu.
+« Coder, tester, apprendre, répéter. »
 
-<!--
-**Mohandsaid01/Mohandsaid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+Contactez-moi
+LinkedIn E-mail Instagram Gazouillement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Langues et outils
+
+
+
+
+
+
+
+
+
+
+Flocon de neige Cisco (Technique de support) OOP / POO XAMPP Serveur Wamp
+
+Éducation
+Institut Teccart — DEC en Programmation
+Développeur / Forums
+Stack Overflow CodePen
